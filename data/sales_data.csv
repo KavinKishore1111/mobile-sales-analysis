@@ -1,0 +1,36 @@
+Order ID,Date,Region,Product,Quantity,Price
+001,2024/06/01,North,Apple,10,2.5
+002,01-06-2024,South,Banana,,1.0
+003,2024-06-02,East,Orange,5,
+,2024/06/03,West,Apple,15,2.5
+005,2024/06/03,North,Banana,7,1.0
+1,2024/06/01,North America,Apple iPhone 15,10,999
+2,01-06-2024,Europe,Samsung Galaxy S24,5,899
+3,2024-06-02,Asia,Xiaomi 14,,699
+4,2024/06/03,South America,Motorola Edge 50,7,
+5,03-06-2024,Australia,Google Pixel 8,6,799
+6,2024-06-04,Africa,OnePlus 12,,699
+7,2024/06/05,Europe,Nokia XR21,NaN,599
+8,05-06-2024,North America,Apple iPhone 15 Pro,3,1199
+9,2024-06-06,Asia,Samsung Galaxy A55,12,449
+10,2024/06/07,South America,Motorola G Power,9,299
+11,07-06-2024,Australia,Google Pixel 8a,NaN,499
+12,2024-06-08,Africa,OnePlus Nord 4,5,NaN
+13,2024/06/09,Europe,Sony Xperia 1 V,4,1099
+14,09-06-2024,North America,Apple iPhone SE,6,429
+15,2024-06-10,Asia,Xiaomi Redmi Note 13,NaN,299
+16,2024/06/11,South America,Motorola Razr 40,2,999
+17,11-06-2024,Australia,Google Pixel Fold,1,1799
+18,2024-06-12,Africa,OnePlus Open,3,1699
+19,2024/06/13,Europe,Samsung Galaxy Z Flip5,2,999
+20,13-06-2024,North America,Apple iPhone 14,5,799
+21,2024-06-14,Asia,Vivo X100 Pro,7,899
+22,2024/06/15,South America,Motorola Edge 40,8,699
+23,15-06-2024,Australia,Google Pixel 7,3,699
+24,2024-06-16,Africa,OnePlus 11R,4,599
+25,2024/06/17,Europe,Sony Xperia 10 V,6,499
+26,17-06-2024,North America,Apple iPhone 13,NaN,699
+27,2024-06-18,Asia,Oppo Find X7,5,999
+28,2024/06/19,South America,Motorola Moto E13,10,149
+29,19-06-2024,Australia,Google Pixel 6a,2,449
+30,2024-06-20,Africa,OnePlus Nord CE 3,6,399

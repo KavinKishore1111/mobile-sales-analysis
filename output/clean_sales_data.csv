@@ -1,0 +1,32 @@
+Order ID,Date,Region,Product,Quantity,Price,Total Sales,Total Sales (numpy)
+1.0,2024-06-01,North,Apple,10.0,2.5,25.0,25.0
+2.0,2024-06-01,South,Banana,5.88,1.0,5.88,5.88
+3.0,2024-06-02,East,Orange,5.0,641.5357142857143,3207.6785714285716,3207.6785714285716
+Unknown,2024-06-03,West,Apple,15.0,2.5,37.5,37.5
+5.0,2024-06-03,North,Banana,7.0,1.0,7.0,7.0
+4.0,2024-06-03,South America,Motorola Edge 50,7.0,641.5357142857143,4490.75,4490.75
+6.0,2024-06-04,Africa,OnePlus 12,5.88,699.0,4110.12,4110.12
+7.0,2024-06-05,Europe,Nokia XR21,5.88,599.0,3522.12,3522.12
+8.0,2024-06-05,North America,Apple iPhone 15 Pro,3.0,1199.0,3597.0,3597.0
+9.0,2024-06-06,Asia,Samsung Galaxy A55,12.0,449.0,5388.0,5388.0
+10.0,2024-06-07,South America,Motorola G Power,9.0,299.0,2691.0,2691.0
+11.0,2024-06-07,Australia,Google Pixel 8a,5.88,499.0,2934.12,2934.12
+12.0,2024-06-08,Africa,OnePlus Nord 4,5.0,641.5357142857143,3207.6785714285716,3207.6785714285716
+13.0,2024-06-09,Europe,Sony Xperia 1 V,4.0,1099.0,4396.0,4396.0
+14.0,2024-06-09,North America,Apple iPhone SE,6.0,429.0,2574.0,2574.0
+15.0,2024-06-10,Asia,Xiaomi Redmi Note 13,5.88,299.0,1758.12,1758.12
+16.0,2024-06-11,South America,Motorola Razr 40,2.0,999.0,1998.0,1998.0
+17.0,2024-06-11,Australia,Google Pixel Fold,1.0,1799.0,1799.0,1799.0
+18.0,2024-06-12,Africa,OnePlus Open,3.0,1699.0,5097.0,5097.0
+19.0,2024-06-13,Europe,Samsung Galaxy Z Flip5,2.0,999.0,1998.0,1998.0
+20.0,2024-06-13,North America,Apple iPhone 14,5.0,799.0,3995.0,3995.0
+21.0,2024-06-14,Asia,Vivo X100 Pro,7.0,899.0,6293.0,6293.0
+22.0,2024-06-15,South America,Motorola Edge 40,8.0,699.0,5592.0,5592.0
+23.0,2024-06-15,Australia,Google Pixel 7,3.0,699.0,2097.0,2097.0
+24.0,2024-06-16,Africa,OnePlus 11R,4.0,599.0,2396.0,2396.0
+25.0,2024-06-17,Europe,Sony Xperia 10 V,6.0,499.0,2994.0,2994.0
+26.0,2024-06-17,North America,Apple iPhone 13,5.88,699.0,4110.12,4110.12
+27.0,2024-06-18,Asia,Oppo Find X7,5.0,999.0,4995.0,4995.0
+28.0,2024-06-19,South America,Motorola Moto E13,10.0,149.0,1490.0,1490.0
+29.0,2024-06-19,Australia,Google Pixel 6a,2.0,449.0,898.0,898.0
+30.0,2024-06-20,Africa,OnePlus Nord CE 3,6.0,399.0,2394.0,2394.0
